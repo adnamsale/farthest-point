@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farthest-point.iml" filepath="$PROJECT_DIR$/.idea/modules/farthest-point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farthest-point_main.iml" filepath="$PROJECT_DIR$/.idea/modules/farthest-point_main.iml" group="farthest-point" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farthest-point_test.iml" filepath="$PROJECT_DIR$/.idea/modules/farthest-point_test.iml" group="farthest-point" />
+    </modules>
+  </component>
+</project>
